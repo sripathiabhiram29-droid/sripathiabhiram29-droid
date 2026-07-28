@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abhiram 👋
 
-<!--
-**sripathiabhiram29-droid/sripathiabhiram29-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Cloud Developer with 5+ years of experience building serverless, cloud-native, and full-stack applications.
 
-Here are some ideas to get you started:
+## 🏆 Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AWS Certified Solutions Architect – Associate](aws-certified-solutions-architect-associate.png)
+
+**AWS Certified Solutions Architect – Associate (SAA-C03)**  
+Amazon Web Services | March 2026
+
+## 🛠️ Skills
+
+AWS Lambda • API Gateway • S3 • CloudFront • DynamoDB • SNS • SQS  
+Python • JavaScript • TypeScript • Node.js • React  
+CloudFormation • AWS CDK • CI/CD • REST APIs • Microservices
+
+## 🚀 Featured Projects
+
+- [AWS Cloud Resume](https://github.com/sripathiabhiram29-droid/aws-cloud-resume)
+- [Serverless TaskFlow](https://github.com/sripathiabhiram29-droid/serverless-taskflow)
+- [EventFlow AWS Order Processing](https://github.com/sripathiabhiram29-droid/eventflow-aws-order-processing)
+- [Solana Arbitrage Framework](https://github.com/sripathiabhiram29-droid/solana-arb-framework)
+
+## 📫 Contact
+
+Email: Sripathiabhiram29@gmail.com  
+GitHub: https://github.com/sripathiabhiram29-droid
