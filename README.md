@@ -1,6 +1,14 @@
 # Hi, I'm Abhiram Reddy Sripathi 👋
 
-AWS Cloud Developer with 5+ years of experience building serverless, cloud-native, microservices, and full-stack applications.
+## AWS Cloud and Full-Stack Software Engineer
+
+AWS Cloud and Full-Stack Software Engineer with 5+ years of experience designing, developing, integrating, deploying, and supporting enterprise applications across telecommunications, healthcare, and data-platform environments.
+
+I build cloud-native and hybrid applications using AWS, React.js, TypeScript, Node.js, Python, .NET, REST APIs, microservices, event-driven integrations, and relational and NoSQL databases.
+
+My experience includes secure authentication platforms, commercial scheduling and monitoring systems, marketing-content workflows, HIPAA-aligned healthcare applications, global developer portals, CI/CD automation, application security, observability, and production support.
+
+---
 
 ## 🏆 Certification
 
@@ -9,28 +17,78 @@ AWS Cloud Developer with 5+ years of experience building serverless, cloud-nativ
 **AWS Certified Solutions Architect – Associate (SAA-C03)**  
 Amazon Web Services | March 2026
 
-## ☁️ Core Skills
+---
 
-**AWS:** Lambda, API Gateway, S3, CloudFront, EC2, Route 53, DynamoDB, SNS, SQS, Cognito, IAM, CloudWatch
+## ☁️ Technical Skills
 
-**Development:** Python, JavaScript, TypeScript, Node.js, React.js, REST APIs, Microservices
+**AWS & Cloud:**  
+AWS Lambda, Amazon API Gateway, Amazon S3, Amazon CloudFront, Amazon EC2, Amazon EventBridge, Amazon Route 53, AWS Secrets Manager, Amazon VPC, Elastic Load Balancing, Auto Scaling, AWS CloudFormation, AWS CDK
 
-**DevOps:** CloudFormation, AWS CDK, Git, Jenkins, Bitbucket, CI/CD, Infrastructure as Code
+**Programming Languages:**  
+Python, JavaScript, TypeScript, C#, SQL, Bash/Shell Scripting
 
-**Databases:** Oracle, AWS RDS, MongoDB, DynamoDB
+**Backend & Architecture:**  
+Node.js, .NET, REST APIs, Microservices, Serverless Architecture, Event-Driven Architecture, Distributed Systems, Asynchronous Processing, File Processing, Enterprise Integrations
+
+**Frontend Development:**  
+React.js, Angular, HTML5, CSS3, Single-Page Applications, Responsive Web Design, Reusable Components, Design Systems, Internationalization, Localization
+
+**Databases & Messaging:**  
+Amazon RDS, Amazon DynamoDB, Oracle, MongoDB, Amazon SNS, Amazon SQS, Kafka, RabbitMQ
+
+**DevOps & Delivery:**  
+Git, GitHub, Bitbucket, Jenkins, CI/CD Pipelines, Infrastructure as Code, Automated Deployments, Release Management, Multi-Environment Deployment
+
+**Monitoring & Testing:**  
+Amazon CloudWatch, Splunk, Dynatrace, Postman, SoapUI, Unit Testing, Integration Testing, API Testing, Logging, Alerting, Root-Cause Analysis, Production Support
+
+---
+
+## 💼 Professional Experience
+
+### Charter Communications  
+**AWS Cloud Solutions Developer** | Feb 2026 – Present
+
+Supporting Spectrum Reach through full-stack and cloud development using AWS, React.js, TypeScript, .NET, APIs, hybrid-cloud architecture, centralized authentication, infrastructure as code, commercial scheduling workflows, and marketing-content platforms.
+
+### Tenet Health  
+**AWS Cloud Application Developer** | Sep 2025 – Feb 2026
+
+Supported cloud-native clinical, revenue-cycle, and patient-engagement applications used across more than 50 hospitals using AWS, .NET, C#, Python, Node.js, TypeScript, Angular, REST APIs, microservices, and event-driven integrations.
+
+### Teradata  
+**Software Engineer — Full Stack** | Jun 2020 – Nov 2024
+
+Contributed to the Teradata Developer Portal using React.js, Node.js, MongoDB, Docusaurus, reusable components, shared design systems, internationalization, cross-browser development, and developer-focused technical documentation.
+
+---
 
 ## 🚀 Featured Projects
 
-- [AWS Cloud Resume](https://github.com/sripathiabhiram29-droid/aws-cloud-resume)
-- [Serverless TaskFlow](https://github.com/sripathiabhiram29-droid/serverless-taskflow)
-- [EventFlow AWS Order Processing](https://github.com/sripathiabhiram29-droid/eventflow-aws-order-processing)
-- [Solana Arbitrage Framework](https://github.com/sripathiabhiram29-droid/solana-arb-framework)
+### LaunchPad AI — AI-Assisted Cloud Deployment Architect
 
-## 💼 Experience
+AI-assisted platform that analyzes GitHub repositories, identifies application architecture and technology choices, and generates cloud-readiness findings, security guidance, scaling recommendations, and deployment blueprints.
 
-AWS Developer with experience at Charter Communications, Tenet Health, and Teradata, focused on serverless architecture, cloud migrations, enterprise integrations, React applications, CI/CD automation, security, monitoring, and production support.
+### [Serverless TaskFlow](https://github.com/sripathiabhiram29-droid/serverless-taskflow)
+
+Serverless AWS task-management platform supporting task CRUD operations, status changes, historical activity tracking, REST APIs, Lambda backend services, DynamoDB data models, logging, and monitoring.
+
+### [SpendWise](https://github.com/sripathiabhiram29-droid/spendwise-serverless-expense-tracker)
+
+Full-stack serverless expense-management application supporting expense CRUD, categories, monthly filtering, totals, charts, and CSV export using S3, CloudFront, API Gateway, Lambda, and DynamoDB.
+
+### [AWS Cloud Resume](https://github.com/sripathiabhiram29-droid/aws-cloud-resume)
+
+Serverless cloud resume website hosted on Amazon S3 and delivered through CloudFront, with AWS-based backend functionality, infrastructure configuration, monitoring, and secure content delivery.
+
+### [EventFlow AWS Order Processing](https://github.com/sripathiabhiram29-droid/eventflow-aws-order-processing)
+
+Event-driven AWS order-processing project demonstrating asynchronous workflows, serverless services, decoupled application components, and cloud-native integration patterns.
+
+---
 
 ## 📫 Contact
 
-- Email: [Sripathiabhiram29@gmail.com](mailto:Sripathiabhiram29@gmail.com)
-- GitHub: [sripathiabhiram29-droid](https://github.com/sripathiabhiram29-droid)
+- **Email:** [sripathiabhiram29@gmail.com](mailto:sripathiabhiram29@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abhiram-reddy-s-357829254](https://www.linkedin.com/in/abhiram-reddy-s-357829254/)
+- **GitHub:** [github.com/sripathiabhiram29-droid](https://github.com/sripathiabhiram29-droid)
