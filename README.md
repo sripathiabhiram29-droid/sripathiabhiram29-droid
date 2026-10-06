@@ -10,12 +10,23 @@ My experience includes secure authentication platforms, commercial scheduling an
 
 ---
 
-## 🏆 Certification
+## 🏆 Certifications
 
 <img src="aws-certified-solutions-architect-associate.png" width="180" alt="AWS Certified Solutions Architect – Associate">
 
 **AWS Certified Solutions Architect – Associate (SAA-C03)**  
 Amazon Web Services | March 2026
+
+<br>
+
+<img src="claude-academy-building-with-the-claude-api.png" width="300" alt="Claude Academy – Building with the Claude API">
+
+**Building with the Claude API**  
+Claude Academy | October 2026
+
+Claude API development, prompt engineering, tool use, Model Context Protocol (MCP), prompt evaluation, prompt caching, and agentic workflows.
+
+[Verify Credential](https://academy.claude.com/verify/1004b5ceb8e4b3161405678173372189) | [View Certificate](./claude-academy-badge-building-with-the-claude-api.pdf)
 
 ---
 
